@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic scene of a student sitting at a desk surrounded by a single book, obsessively memorizing it. The walls around are completely covered with exact copies of the same book pages. The student looks focused but trapped. Outside the window, a different book lies ignored. Natural lighting, realistic photography style, emotional, no text, no symbols, no diagrams. Negative prompt: charts, graphs, numbers, equations, labels, futuristic elements",
+  "model": "Gemini 1.5 Pro",
+  "concept": "Overfitting",
+  "metaphor": "A student memorizing one book perfectly but unable to handle new material, representing a model that learns training data too specifically and fails to generalize."
+}
